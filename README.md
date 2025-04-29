@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently a student**
+ 🔭 Final Year B.Tech Student.**
  
- 🌱 I’m currently learning **Docker, Flask, Machine Learning, Flutter.**
+ 🌱 Currently going deeper in the field of Artificial Intelligence. Done with Machine Learning, Deep Learning and NLP.**
 
 💬 Ask me about **Python, C/C++, Dart... or anything [here](https://github.com/mohitjalal/mohitjalal/issues)**
 
