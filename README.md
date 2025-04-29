@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,anaconda,github,figma,git,google colab,Powerbi,Tableau,Excel,Docker" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,dart,postgresql,mysql,flask,machine learning,deep learning/><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,dart,postgresql,mysql,flask/><br>
 </div>
 
 <br/>
