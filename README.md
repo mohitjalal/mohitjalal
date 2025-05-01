@@ -14,9 +14,9 @@
  
  🌱 Currently going deeper in the field of Artificial Intelligence. Done with Machine Learning, Deep Learning and NLP.**
 
-💬 Ask me about **Python, C/C++, Dart... or anything [here](https://github.com/mohitjalal/mohitjalal/issues)**
+💬 Ask me about **Python, C/C++, Machine Learning... or anything [here](https://github.com/mohitjalal/mohitjalal/issues)**
 
-⚡ Fun fact **Naruto is the best anime.**
+⚡ Fun fact **Data Science is not for kids. Machine learning and deep learning is too fun.**
 
  </div>
  
